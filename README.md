@@ -1,5 +1,4 @@
-# Git Automation Setup
-
+# Git First Push Automation  
 This guide will help you set up automated git operations using a custom script. Follow these steps to install and configure the git automation tool.
 
 ## Prerequisites
