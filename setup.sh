@@ -4,7 +4,7 @@
 mkdir -p ~/bin
 
 # 2. Move the Script and Rename to `git-remote`
-mv git_automation/git-remote.sh ~/bin/git-remote
+mv git-remote.sh ~/bin/git-remote
 
 # 3. Make Script Executable
 chmod +x ~/bin/git-remote
